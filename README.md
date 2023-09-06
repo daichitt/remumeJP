@@ -9,17 +9,21 @@
 ### 個人事業主(2022/05〜2022/07)
 職種：ソフトウェアエンジニア
 
-#### 1. Car sharing pletform 
+#### 1. Car pletform 
 - 期間：2023/02〜2023/08
 - 担当：運用
 - 開発：Node.js、React、TypeScript、MongoDB、Docker
-- Node.jsでのバックエンド開発とReactでのフロントまでを担当。バックエンドとフロントエンドともにTypeScriptで型をつける
+- フロントエンドの代わりに Node.js を使用して新しいバックエンド非同期関数を作成することにより、ページの読み込み速度が向上しました。
+- useStateやuseEffectなどのHookの仕様を理解することでDOMレンダリングを最適化
+- 新しいスキーマを MongoDB に追加し、正確で一貫性のあるデータを維持することにより、メンテナンスが向上しました。
+
 
 #### 2. ECサイト
 - 期間：2022/05〜2022/07
 - 担当：運用
 - 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
-- バックエンド側の新規の追加
+- Doctrine ORMでのsetters とgettersを使用したDBからデータの操作
+- 追加機能及びバグFIxでの機能改善
 
 
 ### 株式会社MS（2020/07 〜 2022/04）
@@ -28,7 +32,8 @@
 #### 1. 中古品販売システム開発
 - 担当：新規開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
-- スクラッチからLaravelとJavaScriptでメイン機能開発
+- ORMを使用したModelでのデータの抽出
+- REST APIでのCRUD の設計から実装
 
 #### 2. 物件管理システム
 - 担当：新規開発
@@ -38,6 +43,7 @@
 #### 3.オンライン名刺サービス
 - 担当：運用
 - 開発：Rails、Ruby、MySQL、JavaScript、JQuery
+- 新しい関数の作成と、Rspec を使用した単体テスト設計と作成
 - バグ改修、規機能追加〜テストコードまで実装。
 
 2020年7月 - 2020年12月 以下省略
