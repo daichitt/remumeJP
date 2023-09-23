@@ -30,17 +30,20 @@
 職種：ソフトウェアエンジニア
 
 #### 1. 中古品販売システム開発
+- 期間：2021/12〜2022/03
 - 担当：新規開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
 - ORMを使用したModelでのデータの抽出
 - REST APIでのCRUD の設計から実装
 
 #### 2. 物件管理システム
+- 期間：2021/8〜2022/11
 - 担当：新規開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
 - LarvelのView部分のフロントエンド画面担当
 
 #### 3.オンライン名刺サービス
+- 期間：2021/1〜2021/8
 - 担当：運用
 - 開発：Rails、Ruby、MySQL、JavaScript、JQuery
 - 新しい関数の作成と、Rspec を使用した単体テスト設計と作成
