@@ -45,7 +45,7 @@
 #### 3.オンライン名刺サービス
 - 期間：2021/1〜2021/8
 - 担当：運用
-- 開発：Rails、Ruby、MySQL、JavaScript、JQuery
+- 開発：Rails、Ruby、Rspec、MySQL、JavaScript、JQuery
 - 新しい関数の作成と、Rspec を使用した単体テスト設計と作成
 - バグ改修、規機能追加〜テストコードまで実装。
 
