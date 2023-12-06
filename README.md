@@ -54,7 +54,7 @@
 ## Skills 
 
 ### Backend
-Node.js, Laravel, Ruby on Rails
+Node.js, Laravel, Ruby on Rails、Python
 
 ### Frontend
 React, TypeScript, JavaScript
